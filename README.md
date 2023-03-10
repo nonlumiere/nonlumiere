@@ -3,5 +3,5 @@
 </h1>
 <h3 align="center">
   Башкортстан Республикасыннан, компьютер технологияләрен эшләүче.<br>
-  (Python, Java, C++ and C#)
+  <code>(Python, Java, C++ and C#)</code>
 </h3>
